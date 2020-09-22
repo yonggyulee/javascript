@@ -29,3 +29,5 @@ v = 2020;   // 다른 타입의 할당이 가능
 console.log("v -> ", v, " type -> ", typeof v);
 
 // number, strong, bollean, object
+
+
